@@ -1,1 +1,1 @@
-# vladzyaba.openjapan.io
+# openjapan.github.io
