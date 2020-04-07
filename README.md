@@ -1,1 +1,1 @@
-# vladzyaba.open-japan
+# vladzyaba.openjapan.io
